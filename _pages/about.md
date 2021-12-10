@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Hi, welcome to my homepage (which is a work in progress and missing a lot of things!). I'm a PhD candidate in the Computer Science Department at the University of California, Berkeley. I work as a graduate student researcher associated with the ADEPT lab and I'm advised by [Sanjit A. Seshia](http://people.eecs.berkeley.edu/~sseshia/).
+Hi, welcome to my homepage (which is a work in progress and missing things). I'm a PhD candidate in the Computer Science Department at the University of California, Berkeley. I work as a graduate student researcher associated with the ADEPT lab and I'm advised by [Sanjit A. Seshia](http://people.eecs.berkeley.edu/~sseshia/).
 
 My focuses and interests are in formal verification, programming languages, program synthesis, and systems security including the blockchain technology, microarchitectural security, and trusted execution environments.
 
