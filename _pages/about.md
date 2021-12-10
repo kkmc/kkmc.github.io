@@ -8,9 +8,8 @@ profile:
   align: right
   image: kevin.jpg
   address: >
-    <p>Cory Hall</p>
-    <p>Berkeley, CA</p>
-    <p>USA</p>
+    <p>Cory Hall,</p>
+    <p>Berkeley, CA, USA</p>
 
 news: false  # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
