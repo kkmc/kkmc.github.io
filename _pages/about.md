@@ -21,4 +21,4 @@ Hi, welcome to my homepage (which is a work in progress and missing things). I'm
 
 My focuses and interests are in formal verification, programming languages, program synthesis, and systems security including blockchain technology, microarchitectural security, and trusted execution environments.
 
-Before coming to Berkeley in 2017, I received my B.Sc in Combined Honours Computer Science and Mathematics at [University of British Columbia](https://www.ubc.ca/).
+Before coming to Berkeley in 2017, I received my B.Sc in Combined Honours Computer Science and Mathematics at the [University of British Columbia](https://www.ubc.ca/).
