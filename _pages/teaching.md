@@ -2,10 +2,20 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+description: 
 nav: true
 ---
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+<b> University of Califoria, Berkeley </b>
 
-Organize your courses by years, topics, or universities, however you like!
+[\[CS 164\]](https://inst.eecs.berkeley.edu/~cs164/fa20/info.html) Programming Languages and Compilers (Fall 2020)
+
+[\[EECS 219C\]](https://people.eecs.berkeley.edu/~sseshia/219c/) Formal Methods: Specification, Verification, and Synthesis (Spring 2019)
+
+<b> University of British Columbia </b> 
+
+[\[CS 221\]](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221) Basic Algorithms and Data Structures (2014)
+
+[\[CS 213\]](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=213) Introduction to Computer Systems (2014)
+
+[\[CS 121\]](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=121) Models of Computation (2013)

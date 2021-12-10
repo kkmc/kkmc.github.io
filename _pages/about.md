@@ -2,23 +2,23 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: UC Berkeley PhD Student
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: kevin.jpg
   address: >
     <p>Cory Hall</p>
     <p>Berkeley, CA</p>
     <p>USA</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+Hi, welcome to my homepage (which is a work in progress and missing a lot of things!). I'm a PhD candidate in the Computer Science Department at the University of California, Berkeley. I work as a graduate student researcher associated with the ADEPT lab and I'm advised by [Sanjit A. Seshia](http://people.eecs.berkeley.edu/~sseshia/).
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My focuses and interests are in formal verification, programming languages, program synthesis, and systems security including the blockchain technology, microarchitectural security, and trusted execution environments.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before coming to Berkeley in 2017, I received my B.Sc in Combined Honours Computer Science and Mathematics at [University of British Columbia](https://www.ubc.ca/).
