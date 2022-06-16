@@ -6,7 +6,7 @@ description: UC Berkeley PhD Student
 
 profile:
   align: right
-  image: kevin.jpg
+  image: kevin.jpeg
   address: >
     <p>Cory Hall,</p>
     <p>Berkeley, CA, USA</p>
