@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: UC Berkeley PhD Student
+description: UC Berkeley PhD Candidate
 
 profile:
   align: right
