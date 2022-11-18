@@ -3,6 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: <a href='#'>UC Berkeley Ph.D.</a>.
+
 profile:
   align: right
   image: kevin.jpeg
