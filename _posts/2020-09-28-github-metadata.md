@@ -1,3 +1,4 @@
+git \addtolength{•}{•}
 ---
 layout: post
 title: a post with github metadata
