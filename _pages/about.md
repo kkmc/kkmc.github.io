@@ -6,7 +6,7 @@ description: Applied Scientist / UC Berkeley PhD
 
 profile:
   align: right
-  image: aboutme-headshot.jpg
+  image: headshot.jpg
   address: >
     <p>Cory Hall,</p>
     <p>Berkeley, CA, USA</p>
