@@ -6,7 +6,7 @@ subtitle: <a href='#'>Applied Scientist. UC Berkeley Ph.D.</a>.
 
 profile:
   align: right
-  image: aboutme-headshot.jpg
+  image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Cory Hall</p>
