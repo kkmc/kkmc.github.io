@@ -11,15 +11,7 @@ nav: true
  <td><b style="font-size: 1.1rem">Paper Reviewer and Subreviewer</b></td>
  </tr>
  <tr>
- <td>ECOOP</td>
- <th scope="row">2024</th>
- </tr>
- <tr>
- <td>TACAS</td>
- <th scope="row">2024</th>
- </tr>
- <tr>
- <td>VMCAI</td>
+ <td>ECOOP, TACAS, VMCAI</td>
  <th scope="row">2024</th>
  </tr>
  <tr>
@@ -27,11 +19,7 @@ nav: true
  <th scope="row">2023</th>
  </tr>
  <tr>
- <td>CAV</td>
- <th scope="row">2021</th>
- </tr>
- <tr>
- <td>FMCAD</td>
+ <td>CAV, FMCAD</td>
  <th scope="row">2021</th>
  </tr>
  <tr>
@@ -43,31 +31,11 @@ nav: true
  <td><b style="font-size: 1.1rem">Artifact Evaluations</b></td>
  </tr>
  <tr>
- <td>ICCPS</td>
+ <td>ICCPS, USENIX, ECOOP, TACAS</td>
  <th scope="row">2024</th>
  </tr>
  <tr>
- <td>USENIX</td>
- <th scope="row">2024</th>
- </tr>
- <tr>
- <td>ECOOP</td>
- <th scope="row">2024</th>
- </tr>
- <tr>
- <td>TACAS</td>
- <th scope="row">2024</th>
- </tr>
- <tr>
- <td>CCS</td>
- <th scope="row">2023</th>
- </tr>
- <tr>
- <td>ICCPS</td>
- <th scope="row">2023</th>
- </tr>
- <tr>
- <td>CAV</td>
+ <td>CCS, ICCPS, CAV</td>
  <th scope="row">2023</th>
  </tr>
  <tr>
