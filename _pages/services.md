@@ -8,7 +8,7 @@ nav: true
 
 <table class="table table-sm table-borderless" style="color: var(--global-text-color)">
  <tr>
- <td><b style="font-size: 1.1rem">Paper Reviewer and Subreviewer</b></td>
+ <td><b style="font-size: 1.1rem">Program committee / subreviewer</b></td>
  </tr>
  <tr>
  <td>ECOOP, TACAS, VMCAI</td>
@@ -28,7 +28,7 @@ nav: true
  </tr>
  
  <tr>
- <td><b style="font-size: 1.1rem">Artifact Evaluations</b></td>
+ <td><b style="font-size: 1.1rem">Artifact evaluation committee</b></td>
  </tr>
  <tr>
  <td>ICCPS, USENIX, ECOOP, TACAS</td>
