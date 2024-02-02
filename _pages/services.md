@@ -11,6 +11,18 @@ nav: true
  <td><b style="font-size: 1.1rem">Paper Reviewer and Subreviewer</b></td>
  </tr>
  <tr>
+ <td>ECOOP</td>
+ <th scope="row">2024</th>
+ </tr>
+ <tr>
+ <td>TACAS</td>
+ <th scope="row">2024</th>
+ </tr>
+ <tr>
+ <td>VMCAI</td>
+ <th scope="row">2024</th>
+ </tr>
+ <tr>
  <td>POPL - PriSC</td>
  <th scope="row">2023</th>
  </tr>
@@ -29,6 +41,26 @@ nav: true
  
  <tr>
  <td><b style="font-size: 1.1rem">Artifact Evaluations</b></td>
+ </tr>
+ <tr>
+ <td>ICCPS</td>
+ <th scope="row">2024</th>
+ </tr>
+ <tr>
+ <td>USENIX</td>
+ <th scope="row">2024</th>
+ </tr>
+ <tr>
+ <td>ECOOP</td>
+ <th scope="row">2024</th>
+ </tr>
+ <tr>
+ <td>TACAS</td>
+ <th scope="row">2024</th>
+ </tr>
+ <tr>
+ <td>CCS</td>
+ <th scope="row">2023</th>
  </tr>
  <tr>
  <td>ICCPS</td>
