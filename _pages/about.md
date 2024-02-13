@@ -13,10 +13,10 @@ profile:
     <p>Berkeley, CA</p>
     <p>USA</p>
 
-news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+news: false # includes a list of news items
+latest_posts: false # includes a list of the newest posts
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false # includes social icons at the bottom of the page
 ---
 
 Hi, welcome to my homepage. I'm Kevin and I currently work as an Applied Scientist at AWS in the Zelkova team. I recently graduated from the [University of California, Berkeley](https://eecs.berkeley.edu/) with a Ph.D. in Computer Science where I was fortunate to be advised by by [Sanjit A. Seshia](http://people.eecs.berkeley.edu/~sseshia/). During my time at Berkeley, I worked as a graduate student researcher in the Learn & Verify lab and was associated with the ADEPT/SLICE lab.
