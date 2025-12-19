@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Applied Scientist. UC Berkeley Ph.D.</a>.
+subtitle: <a href='#'>Researcher. UC Berkeley Ph.D.</a>.
 
 profile:
   align: right
@@ -23,4 +23,4 @@ Hi, welcome to my homepage. I'm Kevin and I currently work as an Applied Scienti
 
 My focus and interests are in safe and reliable AI, neurosymbolic methods, autonomous coding agents, retrieval systems, formal verification, and system security for blockchain technology and secure hardware systems.
 
-Before coming to Berkeley in 2017, I received my B.Sc in Combined Honours Computer Science and Mathematics from the [University of British Columbia](https://www.ubc.ca/).
+Prior to Berkeley in 2017, I received my B.Sc in Combined Honours Computer Science and Mathematics from the [University of British Columbia](https://www.ubc.ca/).
