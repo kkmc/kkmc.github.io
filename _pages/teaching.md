@@ -15,8 +15,8 @@ nav_order: 6
 
 <b>University of British Columbia</b>
 
-[\[CS 221\]](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=221) Basic Algorithms and Data Structures (2014)
+CS 221 Basic Algorithms and Data Structures (2014)
 
-[\[CS 213\]](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=213) Introduction to Computer Systems (2014)
+CS 213 Introduction to Computer Systems (2014)
 
-[\[CS 121\]](https://courses.students.ubc.ca/cs/courseschedule?pname=subjarea&tname=subj-course&dept=CPSC&course=121) Models of Computation (2013)
+CS 121 Models of Computation (2013)
