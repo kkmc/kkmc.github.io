@@ -2,7 +2,7 @@
 layout: page
 permalink: /awards/
 title: awards
-description: 
+description:
 nav: true
 ---
 
