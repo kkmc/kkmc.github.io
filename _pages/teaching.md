@@ -3,8 +3,8 @@ layout: page
 permalink: /teaching/
 title: teaching
 description:
-nav: true
-nav_order: 6
+nav: false
+nav_order:
 ---
 
 <b>University of Califoria, Berkeley</b>

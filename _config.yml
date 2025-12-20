@@ -51,7 +51,22 @@ footer_fixed: true
 # Dimensions
 max_width: 800px
 
-# TODO: add layout settings (single page vs. multi-page)
+# Single page navigation anchors for the home page.
+single_page_nav:
+  - title: About
+    id: about
+  - title: Research
+    id: research-focus
+  - title: Selected Pubs
+    id: selected-publications
+  - title: Awards
+    id: awards
+  - title: Services
+    id: services
+  - title: Teaching
+    id: teaching
+  - title: Contact
+    id: contact
 
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org

@@ -1,9 +1,9 @@
 ---
 layout: page
-permalink: /Services/
+permalink: /services/
 title: services
 description:
-nav: true
+nav: false
 ---
 
 <table class="table table-sm table-borderless" style="color: var(--global-text-color)">
