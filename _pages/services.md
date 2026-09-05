@@ -11,6 +11,10 @@ nav: false
     <td><b style="font-size: 1.1rem">Program committee member/subreviewer</b></td>
   </tr>
   <tr>
+    <td>ESORICS</td>
+    <th scope="row">2026</th>
+  </tr>
+  <tr>
     <td>ECOOP, TACAS, VMCAI</td>
     <th scope="row">2024</th>
   </tr>

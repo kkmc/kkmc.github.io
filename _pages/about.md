@@ -49,6 +49,7 @@ Before Berkeley, I received my B.Sc. in Combined Honors Computer Science and Mat
 
 **Program committee / paper reviewer**
 
+- **2026:** ESORICS
 - **2024:** ECOOP, TACAS, VMCAI
 - **2023:** POPL - PriSC
 - **2021:** CAV, FMCAD
