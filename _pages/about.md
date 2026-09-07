@@ -9,7 +9,7 @@ profile:
   image: headshot.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>California, USA</p>
+    <p>SF Bay Area, USA</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
