@@ -19,7 +19,7 @@ social: false # includes social icons at the bottom of the page
 
 ## About {#about}
 
-Hi, welcome to my homepage. I’m Kevin, a researcher and Applied Scientist at AWS AI Labs, where I train LLM coding agents and develop SMT-based guardrails and evaluations for reliable long-horizon agent behavior. I currently work on Kiro.
+Hi, welcome to my homepage. I’m Kevin, a researcher and Applied Scientist at AWS AI Labs, where I train and evaluate LLM coding agents and develop SMT-based guardrails for safe agent tool use. I currently work on Kiro.
 
 I received my Ph.D. in Computer Science from the [University of California, Berkeley](https://eecs.berkeley.edu/) in August 2023, advised by [Sanjit A. Seshia](http://people.eecs.berkeley.edu/~sseshia/).
 During my Ph.D., I was a graduate student researcher in the Learn & Verify group and affiliated with the ADEPT/SLICE labs, working on formal verification, automated reasoning, and secure systems.
@@ -28,8 +28,8 @@ Before Berkeley, I received my B.Sc. in Combined Honors Computer Science and Mat
 
 ## Research interests {#research-focus}
 
-- Runtime monitoring and control of long-horizon LLM agents, including SMT-based guardrails and outcome estimation.
-- Training and evaluating LLM coding agents with supervised fine-tuning and reinforcement learning, including building executable RL environments.
+- Runtime monitoring and control of LLM agents, including SMT-based guardrails and outcome estimation.
+- Training and evaluating LLM coding agents, including building executable environments for reinforcement learning and long-horizon evaluation.
 - Formal methods and automated reasoning for safety-critical systems.
 
 ## Selected publications {#selected-publications}
