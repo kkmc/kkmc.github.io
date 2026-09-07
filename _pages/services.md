@@ -15,6 +15,10 @@ nav: false
     <th scope="row">2026</th>
   </tr>
   <tr>
+    <td>ESORICS</td>
+    <th scope="row">2025</th>
+  </tr>
+  <tr>
     <td>ECOOP, TACAS, VMCAI</td>
     <th scope="row">2024</th>
   </tr>
