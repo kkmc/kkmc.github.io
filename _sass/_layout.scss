@@ -8,7 +8,7 @@ body {
   background-color: var(--global-bg-color);
   font-family: "Source Serif 4", "Source Serif Pro", Georgia, serif;
   font-size: 17.5px;
-  font-weight: 275;
+  font-weight: 300;
   line-height: 1.65;
 
   h1,
@@ -24,8 +24,6 @@ body {
 .navbar,
 .btn,
 .badge,
-.publications .author,
-.publications .periodical,
 .profile .more-info,
 footer {
   font-family: "IBM Plex Sans", "Helvetica Neue", sans-serif;
@@ -38,20 +36,20 @@ h4,
 h5,
 h6 {
   font-family: "Source Serif 4", "Source Serif Pro", Georgia, serif;
-  font-weight: 500;
+  font-weight: 400;
   letter-spacing: -0.01em;
 }
 
 h1 {
-  font-size: 2.15rem;
+  font-size: 2rem;
 }
 
 h2 {
-  font-size: 1.65rem;
+  font-size: 1.45rem;
 }
 
 h3 {
-  font-size: 1.25rem;
+  font-size: 1.2rem;
 }
 
 body.fixed-top-nav {
