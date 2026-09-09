@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Researcher. UC Berkeley Ph.D.</a>.
+subtitle: Researcher. UC Berkeley Ph.D.
 
 profile:
   align: right
