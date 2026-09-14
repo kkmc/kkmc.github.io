@@ -52,7 +52,12 @@
 
       {% for author in entry.author_array limit: author_array_limit %}
         {% assign author_is_self = false %}
+        {% assign author_has_equal_contribution = false %}
+        {% if author.last contains '*' %}
+          {% assign author_has_equal_contribution = true %}
+        {% endif %}
         {% assign author_last_name = author.last | remove: '¶' | remove: '&' | remove: '*' | remove: '†' | remove: '^' %}
+        {% capture author_name %}{{ author.first }} {{ author.last | remove: '*' }}{% if author_has_equal_contribution %}<sup>*</sup>{% endif %}{% endcapture %}
         {% if site.scholar.last_name contains author_last_name %}
           {% if site.scholar.first_name contains author.first %}
             {% assign author_is_self = true %}
@@ -74,19 +79,12 @@
           {% if forloop.last and author_array_limit == author_array_size %}and&nbsp;{% endif %}
         {% endif %}
         {% if author_is_self %}
-          <em>
-            {{- author.first }}
-            {{ author.last -}}
-          </em>
+          <em>{{ author_name | strip }}</em>
         {% else %}
           {% if coauthor_url %}
-            <a href="{{coauthor_url}}">
-              {{- author.first }}
-              {{ author.last -}}
-            </a>
+            <a href="{{coauthor_url}}">{{ author_name | strip }}</a>
           {% else %}
-            {{ author.first }}
-            {{ author.last }}
+            {{ author_name | strip }}
           {% endif %}
         {% endif %}
       {% endfor %}
